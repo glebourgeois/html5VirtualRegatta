@@ -1,0 +1,3 @@
+Fond de carte : http://datacenter.manyplayers.com/maps/dalles/4227081/11/50/11/map_11_507_114.png
+Données météo : http://datacenter.manyplayers.com/winds/dated_1x1/0/meteo_20131107115920_-30_0.xml
+Données de notre bateau : http://jacquesvabre-mono.virtualregatta.com/core/Service/ServiceCaller.php?service=GetUser&id_user=2545522&id_boat=1938266&lang=FR&light=1&auto=1&checksum=a3af52137628ba45dc99c54c3cec7d682c3c2221
